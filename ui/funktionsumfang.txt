@@ -1,0 +1,22 @@
+MUSS:
+- Schreiben von Prozessdaten (Kennlinie, Regler, Limitierungen)
+- Loggerdaten lesen
+- Ablegen Prozess und loggerdaten in DB (textdokument)
+- Prozessvisualisierung, welche RET veranschaulicht
+
+- Linearisierung automatisch durchführen
+- Linearisierung lässt nur im element 0 einen y = 0 Wert zu (kein x = 0 -> y = 10)
+- Laufdaten darstellen
+- Variabeln bei veränderung automatisch aktualisieren
+- Loggerdaten für BORIS bereitstellen
+- Darstellen des Trace
+- IP speichern (config)
+
+KANN:
+- Robuste software (ausschliessen von Nulldivision)
+- Popup Fenster zum speichern von Loggerdaten
+- Automatische Reglerberechnung
+- Borisfile öffnen
+
+Offene Fragen:
+Kann weder CW noch CCW angewählt werden
